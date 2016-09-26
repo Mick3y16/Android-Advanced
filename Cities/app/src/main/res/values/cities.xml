@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Oporto</item>
+        <item>Lisbon</item>
+        <item>Barcelona</item>
+    </string-array>
+    <string-array name="pages">
+        <item>https://en.wikipedia.org/wiki/Porto</item>
+        <item>https://en.wikipedia.org/wiki/Lisbon</item>
+        <item>https://en.wikipedia.org/wiki/Barcelona</item>
+    </string-array>
+</resources>

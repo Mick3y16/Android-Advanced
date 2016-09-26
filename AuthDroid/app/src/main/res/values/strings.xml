@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AuthDroid</string>
+    <string name="app_id">706243679529129</string>
+    <string name="update_status">Update Status</string>
+    <string name="list_friends">List Friends</string>
+    <string name="submit_photo">Submit Photo</string>
+</resources>
